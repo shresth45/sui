@@ -15,7 +15,7 @@ function greet() {
   let greet = Math.floor(currentTime.getHours() / 6);
   switch (greet) {
     case 0:
-      document.getElementById("header_greet").innerHTML = "Good night!";
+      document.getElementById("header_greet").innerHTML = "It's late! Remember to get rest";
       break;
     case 1:
       document.getElementById("header_greet").innerHTML = "Good morning!";

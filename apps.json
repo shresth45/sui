@@ -1,24 +1,19 @@
 {
     "apps" : [
-        {"name":"Bazarr","url":"subs.example.com","icon":"message-video"},
-        {"name":"CloudCMD","url":"files.example.com","icon":"folder-multiple-outline"},
-        {"name":"Cockpit","url":"cp.example.com","icon":"airplane"},
-        {"name":"Feedbin","url":"rss.example.com","icon":"rss"},
-        {"name":"Filestash","url":"cloud.example.com","icon":"package"},
-        {"name":"Jackett","url":"jackett.example.com","icon":"tshirt-crew-outline"},
-        {"name":"Lidarr","url":"music.example.com","icon":"music"},
-        {"name":"Minio","url":"minio.example.com","icon":"server"},
-        {"name":"Mylar","url":"comics.example.com","icon":"book-open-variant"},
-        {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy"},
-        {"name":"Ombi","url":"request.example.com","icon":"file-find-outline"},
-        {"name":"Pi-hole","url":"pihole.example.com","icon":"do-not-disturb"},
-        {"name":"Plex","url":"play.example.com","icon":"plex"},
-        {"name":"Portainer","url":"port1.example.com","icon":"docker"},
-        {"name":"Radarr","url":"movies.example.com","icon":"filmstrip"},
-        {"name":"Sonarr","url":"tv.example.com","icon":"television-box"},
-        {"name":"Stackedit","url":"md.example.com","icon":"markdown"},
-        {"name":"Transmission","url":"dl.example.com","icon":"progress-download"},
-        {"name":"Ubooquity","url":"opds.example.com","icon":"library-shelves"},
-        {"name":"Youtube-DL","url":"yt.example.com","icon":"youtube"}
+        {"name":"Plex Media Player","url":"media.ghoshintra.in","icon":"television-box"},
+        {"name":"Media Requests","url":"requests.ghoshintra.in","icon":"file-find-outline"},
+		{"name":"Torrent client","url":"torrent.ghoshintra.in","icon":"progress-download"},
+        {"name":"File Transfer","url":"minio.ghoshintra.in","icon":"file-upload-outline"},
+        {"name":"Zeus Firewall","url":"zeus.ghoshintra.in","icon":"server-security"},
+        {"name":"Pi-hole DNS","url":"pihole.ghoshintra.in","icon":"dns"},
+        {"name":"Portainer","url":"portainer.ghoshintra.in","icon":"docker"},
+        {"name":"Observium","url":"obs.ghoshintra.in","icon":"eye"},
+		{"name":"Grafana","url":"grafana.ghoshintra.in","icon":"chart-areaspline"},
+		{"name":"Tautulli","url":"tautulli.ghoshintra.in","icon":"chart-bar-stacked"},
+        {"name":"Radarr","url":"radarr.ghoshintra.in","icon":"filmstrip"},
+        {"name":"Sonarr-TV","url":"sonarr.ghoshintra.in","icon":"television-classic"},
+		{"name":"Bazarr","url":"bazarr.ghoshintra.in","icon":"format-textbox"}       
+		
+		
     ]
 }

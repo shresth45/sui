@@ -92,3 +92,5 @@ These can be added or customized in the themer.js file. When changing the name o
 ```
     <section  class="themes">
 ```
+
+I might add a simpler way to edit themes at some point, but adding the current ones should be pretty straight forward.

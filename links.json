@@ -4,84 +4,37 @@
                 "category": "Communicate",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
-                  },
-                  {
                     "name": "Gmail",
                     "url": "http://gmail.com"
                   },
+				  {
+                    "name": "Whatsapp Web",
+                    "url": "http://web.whatsapp.com"
+                  },
                   {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
+                    "name": "Microsoft Outlook",
+                    "url": "https://outlook.live.com/owa/"
                   }
                 ]
               },
               {
-                "category": "Cloud",
+                "category": "Reddit",
                 "links": [
                   {
-                    "name": "Box",
-                    "url": "https://box.net"
+                    "name": "r/homelab",
+                    "url": "https://reddit.com/r/homelab"
                   },
                   {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com"
+                    "name": "r/sysadmin",
+                    "url": "http://reddit.com/r/sysadmin"
+                  },
+				  {
+                    "name": "r/startpages",
+                    "url": "https://www.reddit.com/r/startpages"
                   },
                   {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
-                  }
-                ]
-              },
-              {
-                "category": "Design",
-                "links": [
-                  {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
-                  },
-                  {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
-                  },
-                  {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
-                  }
-                ]
-              },
-              {
-                "category": "Dev",
-                "links": [
-                  {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
-                  },
-                  {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
-                  },
-                  {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
-                  },
-                  {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://freshome.com/"
+                    "name": "r/socialskills",
+                    "url": "https://www.reddit.com/r/socialskills"
                   }
                 ]
               },
@@ -106,33 +59,20 @@
                 "category": "Reading",
                 "links": [
                   {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
+                    "name": "Hacker News",
+                    "url": "https://news.ycombinator.com/"
                   },
                   {
-                    "name": "Medium",
-                    "url": "http://medium.com"
+                    "name": "The Hacker News",
+                    "url": "https://thehackernews.com/"
+                  },
+				  {
+                    "name": "Ars Technica",
+                    "url": "https://arstechnica.com/"
                   },
                   {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
-                  }
-                ]
-              },
-              {
-                "category": "Tech",
-                "links": [
-                  {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
-                  },
-                  {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
-                  },
-                  {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "Pocket",
+                    "url": "https://getpocket.com/a/queue/"
                   }
                 ]
               }

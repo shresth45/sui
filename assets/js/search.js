@@ -56,16 +56,11 @@ function search(text) {
     if (text[0] === '/') {
         if (text.indexOf(' ') > -1) {
             switch (option) {
-                case "am":
-                    window.location = "https://www.allmusic.com/search/all/" + subtext;
-                    break;
+
                 case "d":
                     window.location = "https://duckduckgo.com/?q=" + subtext;
                     break;
-                case "di":
-                    window.location = "https://www.discogs.com/search/?q=" + subtext;
-                    break;
-                case "i":
+                case "imdb":
                     window.location = "https://www.imdb.com/find?q=" + subtext;
                     break;
                 case "m":
@@ -74,20 +69,8 @@ function search(text) {
                 case "r":
                     window.location = "https://www.reddit.com/search?q=" + subtext;
                     break;
-                case "q":
-                    window.location = "https://www.qwant.com/?q=" + subtext;
-                    break;
-                case "so":
-                    window.location = "https://soundcloud.com/search?q=" + subtext;
-                    break;
                 case "s":
                     window.location = "https://open.spotify.com/search/results/" + subtext;
-                    break;
-                case "t":
-                    window.location = "https://trakt.tv/search?query=" + subtext;
-                    break;
-                case "tv":
-                    window.location = "https://www.thetvdb.com/search?q=" + subtext;
                     break;
                 case "y":
                     window.location = "https://www.youtube.com/results?search_query=" + subtext;

@@ -86,11 +86,19 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 });
                 return;
 
-            case 'white':
+            case 'white1':
                 setTheme({
                     'color-background': '#ffffff',
                     'color-text-pri': '#222222',
                     'color-text-acc': '#dddddd'
+                });
+                return;
+				
+			case 'white':
+                setTheme({
+                    'color-background': '#263238',
+                    'color-text-pri': '#AABBC3',
+                    'color-text-acc': '#8e24aa'
                 });
                 return;
 
