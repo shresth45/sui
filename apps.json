@@ -1,12 +1,12 @@
 {
     "apps" : [
         {"name":"Plex Media Player","url":"media.ghoshintra.in","icon":"television-box"},
-        {"name":"Media Requests","url":"requests.ghoshintra.in","icon":"file-find-outline"},
+        {"name":"Media Requests","url":"ombi.ghoshintra.in","icon":"file-find-outline"},
 		{"name":"Torrent client","url":"torrent.ghoshintra.in","icon":"progress-download"},
         {"name":"File Transfer","url":"minio.ghoshintra.in","icon":"file-upload-outline"},
         {"name":"Zeus Firewall","url":"zeus.ghoshintra.in","icon":"server-security"},
         {"name":"Pi-hole DNS","url":"pihole.ghoshintra.in","icon":"dns"},
-        {"name":"Portainer","url":"portainer.ghoshintra.in","icon":"docker"},
+        {"name":"Portainer","url":"portnr.ghoshintra.in","icon":"docker"},
         {"name":"Observium","url":"obs.ghoshintra.in","icon":"eye"},
 		{"name":"Grafana","url":"grafana.ghoshintra.in","icon":"chart-areaspline"},
 		{"name":"Tautulli","url":"tautulli.ghoshintra.in","icon":"chart-bar-stacked"},
