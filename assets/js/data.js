@@ -22,6 +22,18 @@ $(document).ready(function(){
   });
 });
 
+var meddata_apps = "apps2.json";
+
+$(document).ready(function(){
+  $.getJSON(meddata_apps,
+    function (data) {
+      var mysource = $('#media-apps-template').html();
+      var mytemplate = Handlebars.compile(mysource);
+      var myresult = mytemplate(data)
+      $('#medapps').html(myresult);
+  });
+});
+
 var data_providers = "providers.json";
   
 $(document).ready(function(){

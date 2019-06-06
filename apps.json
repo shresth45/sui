@@ -1,19 +1,11 @@
 {
-    "apps" : [
-        {"name":"Plex Media Player","url":"media.ghoshintra.in","icon":"television-box"},
-        {"name":"Media Requests","url":"ombi.ghoshintra.in","icon":"file-find-outline"},
-		{"name":"Torrent client","url":"torrent.ghoshintra.in","icon":"progress-download"},
-        {"name":"File Transfer","url":"minio.ghoshintra.in","icon":"file-upload-outline"},
-        {"name":"Zeus Firewall","url":"zeus.ghoshintra.in","icon":"server-security"},
-        {"name":"Pi-hole DNS","url":"pihole.ghoshintra.in","icon":"dns"},
-        {"name":"Portainer","url":"portnr.ghoshintra.in","icon":"docker"},
-        {"name":"Observium","url":"obs.ghoshintra.in","icon":"eye"},
-		{"name":"Grafana","url":"grafana.ghoshintra.in","icon":"chart-areaspline"},
-		{"name":"Tautulli","url":"tautulli.ghoshintra.in","icon":"chart-bar-stacked"},
-        {"name":"Radarr","url":"radarr.ghoshintra.in","icon":"filmstrip"},
-        {"name":"Sonarr-TV","url":"sonarr.ghoshintra.in","icon":"television-classic"},
-		{"name":"Bazarr","url":"bazarr.ghoshintra.in","icon":"format-textbox"}       
-		
-		
-    ]
+	"apps" : [
+		{"name":"Zeus Firewall","url":"zeus.internal.com","icon":"server-security"},
+		{"name":"Pi-hole DNS","url":"pihole.internal.com","icon":"dns"},
+		{"name":"Observium","url":"obs.internal.com","icon":"eye"},
+		{"name":"Grafana","url":"grafana.internal.com","icon":"chart-areaspline"},
+		{"name":"Docker","url":"docker.internal.com","icon":"docker"},
+		{"name":"Media-Docker","url":"docker2.internal.com","icon":"docker"},
+		{"name":"File Transfer","url":"minio.internal.com","icon":"file-upload-outline"}
+	]
 }

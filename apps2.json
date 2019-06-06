@@ -1,0 +1,11 @@
+{
+	"medapps" : [
+		{"name":"Plex Media Player","url":"media.internal.com","icon":"television-box"},
+		{"name":"Torrent client","url":"torrent.internal.com","icon":"progress-download"},
+		{"name":"Tautulli","url":"tautulli.internal.com","icon":"chart-bar-stacked"},
+		{"name":"Media Requests","url":"ombi.internal.com","icon":"file-find-outline"},
+		{"name":"Radarr","url":"radarr.internal.com","icon":"filmstrip"},
+		{"name":"Sonarr-TV","url":"sonarr.internal.com","icon":"television-classic"},
+		{"name":"Bazarr","url":"bazarr.internal.com","icon":"format-textbox"}
+	]
+}

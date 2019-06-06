@@ -182,7 +182,7 @@ table a{
 	justify-items: stretch;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 2vh;
+	margin-top: 5vh;
 	width: 60%;
 }
 
@@ -307,7 +307,7 @@ table a{
 	margin-left: auto;
     margin-right: auto;
 	padding: 2em;
-	margin-top: 2vh;
+	margin-top: 25vh;
 	width: 50%;
     display: flex;
     flex-direction: column;
@@ -480,7 +480,7 @@ table a{
     #modal>div{
         margin-left: auto;
         margin-right: auto;
-        margin-top: 2vh;
+        margin-top: 25vh;
         width: 90%;
     }
 }
